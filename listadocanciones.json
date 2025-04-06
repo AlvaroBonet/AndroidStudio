@@ -1,15 +1,15 @@
 {
     "data": [
       {
-        "nombre": "SoundHelix Song 1",
+        "nombre": "Cancion 1",
         "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
       },
       {
-        "nombre": "SoundHelix Song 2",
+        "nombre": "Cancion 2",
         "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
       },
       {
-        "nombre": "SoundHelix Song 2",
+        "nombre": "Cancion 3",
         "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
       }
     ]
